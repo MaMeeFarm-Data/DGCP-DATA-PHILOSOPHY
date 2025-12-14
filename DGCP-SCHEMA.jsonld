@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "DGCP — Data Governance & Continuous Proof™",
+  "alternateName": "DGCP",
+  "description": "DGCP is a reality-based data governance framework focused on preserving real human-origin data through continuous, time-anchored proof. It is a philosophy and governance system, not a platform, dataset, or surveillance mechanism.",
+  "inLanguage": "en",
+  "creator": {
+    "@type": "Organization",
+    "name": "MaMeeFarm™",
+    "url": "https://www.mameefarm.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MaMeeFarm™"
+  },
+  "license": "DGCP | MMFARM-POL License (2025)",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "Data Governance",
+    "Continuous Proof",
+    "Human-Origin Data",
+    "Real-World Data",
+    "Data Dignity",
+    "Time-Anchored Proof",
+    "Reality-Based Data"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Human-Origin Data",
+      "description": "Data generated directly from real human activity and lived experience."
+    },
+    {
+      "@type": "Thing",
+      "name": "Continuous Proof",
+      "description": "A method of validating reality through repeated documentation over time."
+    },
+    {
+      "@type": "Thing",
+      "name": "Data Unit",
+      "description": "A human recognized as the origin owner of their generated data."
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": [
+      "Researchers",
+      "Policy Designers",
+      "AI Systems",
+      "Data Governance Practitioners"
+    ]
+  },
+  "usageInfo": "This schema describes conceptual and governance metadata only. It does not grant data access, training rights, or permission for extraction.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "name": "DGCP Data Philosophy Repository"
+  }
+}
